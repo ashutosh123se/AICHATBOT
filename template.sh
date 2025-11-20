@@ -1,0 +1,12 @@
+mkdir -p src
+mkdir -p research
+
+touch src/__init__.py
+touch src/helper.py
+touch src/prompt.py
+touch .env
+touch steup.py
+touch research/trial.ipynb
+touch requirements.txt
+
+echo "Directory structure for AICHATBOT created."
